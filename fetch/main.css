@@ -1,0 +1,32 @@
+html{
+    background-color: burlywood;
+}
+div.container{
+    background-color: cadetblue;
+}
+.form-group{
+    border: 2px solid black ;
+    background-color: blanchedalmond ;
+    margin-left: 10px;
+}
+table {
+border:3px solid black;
+width: 100%;
+height: auto;
+margin-top: 20px;
+}
+th{
+    text-align: center !important;
+    background-color:cornsilk !important;
+}
+th,td{
+    text-align:center;
+    border:2px solid brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+    font-weight: 1000 ;
+    font-style: italic;
+    background-color: gainsboro;  
+}
+
+
+
